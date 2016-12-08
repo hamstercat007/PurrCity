@@ -17,8 +17,12 @@
 	width:195px
 }
 /* index.html */
+#index .body1 {
+	background: url(../images/bg_top.gif) top repeat-x white;
+}
+
 #page1 .body1 {
-	background: url(../images/bg_top.gif) top repeat-x #0e0b06
+	background: url(../images/bg_top.gif) top repeat-x black;
 }
 #page1 header {
 	height:614px
@@ -133,6 +137,7 @@ ul.navigation li {
 
 footer ul.navigation {
 	border: none;
+	background-color: pink;
 }
 
 ul.navigation li a {
