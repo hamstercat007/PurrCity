@@ -1,0 +1,184 @@
+.medium-size{
+  width:75vh;
+}
+
+.pulse {
+	animation-duration: 2s;
+	animation-delay: 2s;
+}
+
+
+.stars {
+  background-image: url("http://wallpapercave.com/wp/xX2GRj6.gif");
+  position:relative; 
+  margin: 20px;
+  width: 80%;
+  height: 600px;
+}
+
+@keyframes flash2 {
+  0%, 66% {
+    opacity: 0;
+  }
+
+  33%, 100% {
+    opacity: 1;
+  }
+}
+
+
+@keyframes pulse2 {
+  from {
+    opacity: 0;
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+
+.pulse2 {
+  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 1s;
+}
+
+.pulse3 {
+  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 2s;
+}
+
+.pulse4 {
+  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 3s;
+}
+
+.pulse5 {
+  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 4s;
+}
+
+.pulse6 {
+  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 7s;
+}
+.pulse7 {
+	  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 8s;
+}
+.pulse8 {
+	  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 9s;
+}
+.pulse9 {
+	  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 12s;
+}
+.pulse10 {
+	  animation-name: pulse2;
+  animation-duration: 1s;
+  animation-delay: 13s;
+}
+
+.pulse11 {
+  animation-name:pulse2;
+  animation-duration: 1s;
+  animation-delay: 14s;
+}
+
+
+.narrative {
+	position: absolute; /*specific location inside the parent*/
+	width: 40%;
+	right: 80px;
+	top: 60px;
+	color: white;
+	animation-delay: 1s;
+	animation-fill-mode: both;
+}
+
+.narrative h1 {
+	animation-fill-mode: both;
+}
+
+
+@keyframes fadeOutUp {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+}
+
+.fadeOutUp1 {
+  -webkit-animation-name: fadeOutUp;
+  animation-name: fadeOutUp;
+  animation-delay: 6s;
+  animation-duration: 1s;
+}
+
+.fadeOutUp2 {
+  -webkit-animation-name: fadeOutUp;
+  animation-name: fadeOutUp;
+  animation-delay: 11s;
+  animation-duration: 1s;
+}
+
+.fadeOutUp3 {
+  -webkit-animation-name: fadeOutUp;
+  animation-name: fadeOutUp;
+  animation-delay: 16s;
+  animation-duration: 2s;
+}
+
+.earth {
+	position: absolute;
+	width: 40%;
+	right: 80px;
+	top: 60px;
+	color: white;
+	animation-name:flash2;
+	animation-delay: 18s;
+	animation-fill-mode: both;
+	animation-duration:2s;
+  transition: transform ease-in 2s;
+}
+
+/*.earth:hover {
+  transform: rotate(360deg);
+}*/
+
+/* this somehow fixes blur */
+.zoomInDown img { transform: translateZ(0);  }
+
+.zoomInDown {
+  animation-duration: 1s;
+}
+.animated-supercat {
+  transform: translateX(400px) translateY(-100px) scale(0.75);
+  opacity: 0;
+  transition-duration: 2s;
+  transition-delay: 2s;
+}
+.animated-supercat .supercat {
+  transform: rotate(50deg) scale(0.5) scaleX(-1) translate(-100px);
+  transition-duration: 2s; 
+}

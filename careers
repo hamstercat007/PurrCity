@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Career Guidance</title>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.6.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/tms-0.3.js"></script>
+<script type="text/javascript" src="js/tms_presets.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62476854-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+	</head>
+	
+	<header>
+	
+
+		<body id="page1">
+			<div class="body1">
+  			<div class="main">
+			<div class="wrapper">
+      		 	<nav>
+          			<ul id="menu">
+		            	<li><a href="index.html">Home</a></li>
+		            	<li><a href="feline-heritage">Feline Heritage</a></li>
+		            	<li><a href="courses">Cat Academy</a></li>
+		            	<li class="active"><a href="careers">Careers</a></li>
+		            	<li><a href="activities">Leisure</a></li>
+		            	<li><a href="clothing">Clothing</a></li>
+          			</ul>
+       			 </nav>
+ <!--<article id="content">-->
+    <div class="wrapper">
+    	<div class="black-font" style="background-color: white;">
+			<h2>Career Guidance</h2>
+			<img src="images/renaissance-cat-education.png" alt="Renaissance cat who loves learning" class="sketches headline left" />
+			<h2>What is your purpose in life?</h2>
+
+		<p>Pop in for a chat with our career advisers. Find out what kind of career may be suited for you so you can have a happy and satisfying life as well as serving others in society.</p>   
+
+		<h2>Purr City minimum wage</h2>
+		<p>Purr City is proud to be guaranteeing the Purr City minimum wage to all working cats. This is currently 8 purr coins an hour, as per the Purr Minimum Wage Act 2017. An Act is a law which is made and voted in by cats. We aim to lift all cats out of poverty so that they can afford the lifestyles they deserve.</p>
+
+		</div>
+		
+			
+<!--<div style="float">
+<img src="images/cropped_playtime.png" alt="cats playing" style="sketches", padding:15px" /> <h1>Playtime</h1>
+		
+</div>
+<div style="float:left">
+
+</div>
+</div>
+		
+-->
+
+	
+		</div>
+		</div>
+
+    </article>
+
+
+
+
+<div class="main">
+  <!-- footer -->
+  <footer>
+
+<img src="images/cropped_playtime.png" alt="cats playing" class="thumbnails", style="float:right; width:300px; margin:30px"/>
+  <h2>Playtime</h2>
+<p>Cats need to play and experiment to find something they enjoy and that they're passionate about for a career. Every cat has the potential to do great things.</p>
+	<p>Every Wednesday afternoon is playtime so cats can enjoy a balanced, healthy life.</p>
+
+
+	
+
+		<h2>Professions</h2>
+		<ul class="events">
+			<li><b>Cats who code</b>: Be part of the generation who can create apps, software and games by writing code (a set of written instructions. Software is code which tells computers how to do things like create a document. Apps are software used on smartphones and tablet devices.</li>
+			<li>
+				<b>Chef</b>: Learn a wide range of ways to serve chicken, fish, and milk!<br />
+			<li><b>Doctor</b>: Diagnose illnesses and prescribe cures.  Everyone needs a helping paw! <!--Prescribe means to write the treatments for--></li>
+			<li><b>Economists</b>: Help cats enjoy a high standard of living without rising costs and increase employment so that cats can reach their potential.</li>
+		</ul>
+			</div>
+			
+			
+			
+			
+	                       
+				  <img src="images/computer-cat.png" class="thumbnails" />
+				   <img src="images/chef-cat.png" class="thumbnails" />
+				<img src="images/doctor-cat.png" class="thumbnails" />
+				<img src="images/cat-dreaming-of-fish.png" class="thumbnails" />
+				<img src="images/pampered-puss.png" class="thumbnails" />
+				<img src="images/politician-cat.png" class="thumbnails" />
+				<img src="images/teacher-cat.png" class="thumbnails" />
+			</li>
+			
+			<ul class="events">
+			<li><b>Entrepreneur</b>: Think of new ventures and start your own business.  <!--Disrupt society with your innovations.-->  The world is your fish!</li>
+			<li>
+				<img src="images/reader-cat-animal-farm.png" class="thumbnails right" />
+				<b>Furtrimmers and groomers</b>:  <!--Cats are vain.-->  Cats like to look good!  Give pedicures and hear cats purr in delight! Pedicure comes from the Latin word <b><em>pedis</em></b> meaning of the foot and <b><em>curare</em></b> means to take care of.  This is also where we get the word <b><em>pedestrian</em></b> from. 
+			</li>
+			<li><b>Politician</b>: Help govern Purr City.<!--and participate in the policies and decisions to make the city more prosperous and equitable (fair).-->  Assist in the city's education, healthcare, finances and housing decisions. Politician comes from the Greek word <b><em>polis</em></b> meaning city, as they look after the things that concern the city or state.  We also get the word <b>metropolis</b> from this, which means a large, busy city. <!--Help decide on the cat's minimum purrcoin wage policy--></li>
+			<li><b>Scientist</b>: Advance knowledge.  Discover new things through observation and experiments.</li>
+			<li><b>Teachers</b>: Inspire the next generation of cats.</li>
+			<li><b>Writer</b>:  Write literature, history, or fiction to entertain and educate cats.  Literature can be creative written pieces of work like poems, or stories that show what life was like in their society through their characters and environment - these often have moral messages of good and bad.</li>
+</li>
+		<ul>
+		</div>
+	</body>

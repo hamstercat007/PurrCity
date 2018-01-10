@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<meta charset="UTF-8">
+		<title>Courses</title>
+		<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.6.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/tms-0.3.js"></script>
+<script type="text/javascript" src="js/tms_presets.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+		
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62476854-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		
+	</head>
+<body id="page1">
+<div class="body1">
+  <div class="main">
+      <div class="wrapper">
+      <nav>
+		 <ul id="menu">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="feline-heritage">Feline Heritage</a></li>
+            <li class="active"><a href="courses">Cat Academy</a></li>
+           	<li><a href="careers">Careers</a></li>
+		    <li><a href="activities">Leisure</a></li>
+		    <li><a href="clothing">Clothing</a></li>
+          </ul>
+        </nav>
+      </div>
+
+
+ <article id="content1">
+      <div class="wrapper">
+      <div class="black-font">
+        <h2 align="center">Courses at Purr City Academy</h2>
+		<p>In Purr City, all cats can learn and improve themselves. </p>
+
+		<table id="courses_table">
+			<tr>
+				<th>Course name</th>
+				<th>Price</th>
+			</tr>
+			<tr>
+				<td>
+					Citizenship 
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to be an active citizen: learn about the history of politics, voting and elections. 
+					</div>
+				</td>
+				<td>Free, sponsored by  Purr City Assembly</td>
+			</tr>
+			<tr>
+				<td>
+					Ethics
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						Respect other cat flaps and cat homes and do not trespass and eat other cats' food.  Learn about <a href="http://www.fairtrade.org.uk" target="_blank">Fairtrade</a> so that producers are getting paid a fair amount in developing countries.  Take action against FURTRADE!
+					</div>
+				</td>
+				<td>Free, sponsored by Purr City Assembly</td>
+			</tr>
+			<tr>
+				<td>
+					Etiquette
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to eat and how to greet other cats.  Show respect for cats who are disabled, elderly and assist kittens.
+					</div>
+				</td>
+				<td>Free, sponsored by Purr City Assembly</td>
+			</tr>
+			<tr>
+				<td>Finances
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to keep control of your finances.  Savings, investments and pensions for your old fur age.  Turn those purr coins into purr notes! Build that purr-fect home!
+					</div>
+				</td>
+				<td>Free, sponsored by Purr City Assembly</td>
+			</tr>
+				<tr>
+				<td>
+					Getting the best out of your human owner
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						Look cute, miaow, allow yourself to be stroked and show appreciation. There is no such thing as a free lunch.  Share the love and hugs.  Your owners may like you more and give you more food and strokes.
+					</div>
+				</td>
+				<td>2 purr coins</td>
+			</tr>
+			
+			<tr>
+
+				<td>
+					Grooming course - How to look after your fur
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to clean yourself, keeping your fur coat glossy and clean.
+					</div>
+				</td>
+				<td>4 purr coins</td>
+			</tr>
+			
+			<tr>
+				<td>
+					How to look after your home
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						Scratching post - what to scratch and what not to scratch (or you could annoy your owner), how to use your litter tray, and catching mice.
+					</div>
+				</td>
+				<td>1 purr coin</td>
+			</tr>
+			
+			<tr>
+				<td>Looking after your kittens
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to hold and clean your kittens.  Teach your kittens survival skills.
+					</div>
+				</td>
+				<td>Free, sponsored by Purr City Assembly</td>
+			</tr>
+			<tr>
+				<td>
+					Nutrition
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						How to eat well; foods to eat and foods to avoid.  You are what you eat! The vitamins and nutrients that all cats need to look and feel great!
+					</div>
+				</td>
+				<td>1 purr coin</td>
+			</tr>
+			<tr>
+				<td>
+					Road safety
+					<a href="#" class="show_more">Click here for more info</a>
+					<div class="hidden">
+						Cross the road safely, looking both ways before crossing.  Wait for the green man to flash.  
+					</div>
+				</td>
+				<td>Free, sponsored by Purr City Assembly</td>
+		</table>
+
+		<div style="float:right">
+		<img src="images/cat-learning-cross-road.png" alt="cat waiting at traffic lights" class="sketches right" />
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	 
+<div style="float">
+ <p style="color:white">Awards for the highest performing students will take place at the Felis Tower, 4 Cat Parade, Purr City, PR14 CAT5.  A month supply of cat food will be awarded. </p>
+		<p style="color:white">
+			A spa package is included, with a claw trimming session, facials and fur grooming, plus a photo-shooting session is also offered</p>
+</div>
+  </article>
+
+  
+</div>
+
+	</body>
+</html>

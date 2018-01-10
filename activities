@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Leisure</title>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.6.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/tms-0.3.js"></script>
+<script type="text/javascript" src="js/tms_presets.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62476854-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+	</head>
+	<header style="height:200px">
+
+<body id="page1">
+<div class="body1">
+  <div class="main">
+	<div class="wrapper">
+					
+		<nav>
+          <ul id="menu">	
+		<li><a href="index.html">Home</a></li>
+		            	<li><a href="feline-heritage">Feline Heritage</a></li>
+		            	<li><a href="courses">Cat Academy</a></li>
+		            	<li><a href="careers">Careers</a></li>
+		            	<li class="active"><a href="activities">Leisure</a></li>
+		            	<li><a href="clothing">Clothing</a></li>
+			<!--<li><a href="entrance.html">Gate to Purr City</a></li>
+			<li><a href="friends_purr_city.html">Friends of Purr City</a></li>-->
+			<!--<li><a href="merchandise.html">Purr City Merchandise</a><li>-->
+	     </ul>
+        </nav>
+      </div>
+			<article id="content">
+      <div class="wrapper">
+      <div class="black-font">
+		<h2 align="center">Cat Activities</h2>
+		<p>In Purr City, cats are intelligent and curious.  Most importantly, cats like to have fun!</p>
+		</div>
+		</div>
+		</div>
+		</article>
+		</div>
+		</div>
+		</body>
+		</header>
+		<body>
+			<div class="activities-align">
+				<h2>Animal chess</h2>
+				<img src="images/cats-playing-animal-chess.png" alt="cats playing animal chess" class="activities" />
+				<p> Hmmmmm, how to take the Lion King?
+					Animal chess is a game with different animal pieces which move in unique ways.  The aim is to prevent the other player's King from moving so he cannot escape.</p>
+			</div>
+
+			<div class="activities-align">
+				<h2>Altruism</h2>
+				<img src="images/cats-helping-homeless-cats.png" alt="cats baking and selling fish cakes to help homeless cats" class="activities" /> 
+				<p>Some cats are not so fortunate to have a loving home. Raise money and bake fishcakes for homeless cats. Altruism is thinking about the well-being of others, it comes from the Latin word <b><em>alter</em></b> meaning other. This is also where we get the word <b>alternative</b> from, meaning another option or possibiity.</p>
+			</div>
+			
+			<div class="activities-align">
+				<h2>Bootcamp</h2>
+				<p>
+					<img src="images/fat-cats-training-bootcamp.png"
+				</p>
+				<p>Get fit at bootcamp! Bootcamp is intensive training over a short period of time.</p> 
+			</div>
+
+			<div class="activities-align">
+
+				<h2>Cat cafe</h2>
+				<p>
+					<img src="images/cats-drinking-in-cafe.png" alt="Cats drinking and socialising in a cafe" class="activities" /><br />
+					Have a drink, relax and get to know other cats.</p>	
+			</div>
+
+			<div class="activities-align">	
+					
+				<h2>Church</h2>
+				<p> <img src="images/church-for-cats.png" class="activities" />
+				</p>
+				<p> Is there more to life than this world?</p>
+				<p>Come in and discover if there is cat heaven.</p>
+			</div>
+
+			<div class="activities-align">
+
+			<h2>Motor-racing</h2>
+			<p> 
+			<img src="images/formula1-cats-racing-track.png" alt="Cats racing each other on race tracks in the cat world of Purr City" class="activities" />
+			</p>
+			<p>	Race other cats on tracks through created desert, mountain and coastal terrains. A terrain is a piece of land with regards to its physical features. This comes from the Latin word <b><em>terra</em></b> meaning land/earth, and it is also where we get the word <b>territory</b> from.</p>
+			</div>
+
+			<div class="activities-align">
+				<h2>Languages</h2>
+				<img src="images/cats-learning-languages.png" alt="Cats learning languages in Purr City" class="activities" />
+				<p>Learn Spanish, Mandarin and more so you can communicate to cats from across the world.</p>
+			</div>
+		
+			<div class="activities-align">
+				<h2>Limbo</h2>
+				<img src="images/limbo-dance.png" "Cats doing the limbo dance in Purr City" class="activities" />
+				<p>Can you do the limbo dance?  Practising the limbo improves your flexibility.</p> 
+			</div>
+
+			<div class="activities-align">
+				<h2>Rock-climbing</h2> 
+				<img src="images/rock-climbing-cats.png" alt="Cats rock-climbing in Purr City" class="activities" />
+				<p>Cats are active and like the outdoors.</p>
+			</div>
+
+			<div class="activities-align">
+				<h2>Karate & self-defence</h2>
+				<img src="images/karate-cats.png" alt="Cats learning karate for self-defence" class="activities" />
+				<p>Ka-pow! Learn to defend yourself against dogs before running up a tree.</p>
+			</div>
+
+			<div class="activities-align">
+				<h2>Singing</h2>
+				<img src="images/singing-cats-contest.png" alt="Cats performing in a singing talent show - Cats have Talent!" class="activities" />
+				<p>Learn to serenade other cats. Breathe in properly and project your voice.</p>
+			</div>
+
+			<div class="activities-align">
+			<h2>Tree climbing</h2> 
+			<img src="images/tree-climbing-cats.png" alt="Cats having fun tree-climbing" class="activities" />
+			<p>Explore different trees.  Have adventures with fellow cats - team bonding!</p>
+			</div>
+		</div>
+		
+	</body>
+</html>
+	
+
+
