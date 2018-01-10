@@ -661,6 +661,23 @@ img {max-width:100%;}
 	max-width: 100%;
 }
 
+
+.thumbnails-overlay {
+	display: inline;
+	position: relative;
+	overflow: hidden;
+	width: 200px;
+}
+
+.thumbnails-overlay img {
+	max-width: 100%;
+	transition: all .3s;
+}
+
+.thumbnails-overlay:hover img {
+	transform:scale(1.1);
+}
+
 .thumbnails.left {
 	float: left;
 }
@@ -674,10 +691,34 @@ img {max-width:100%;}
 	float: right;
 }
 
-.activities {
+/* .activities {
 	padding: 10px;
 	width: 300px;
 }
+
+.activities:hover  {
+	width: 310px;
+} */
+
+/* Image animation START */
+
+.image-overlay {
+	position: relative;
+	overflow: hidden;
+	width: 300px;
+}
+
+.image-overlay img {
+	max-width: 100%;
+	transition: all .3s;
+}
+
+.image-overlay:hover img {
+	transform:scale(1.1);
+}
+
+/* Image animation END */
+
 
 .navigation a{
 	text-decoration: none;

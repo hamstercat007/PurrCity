@@ -104,14 +104,27 @@
 			
 			
 			
-	                       
+	      <div class="thumbnails-overlay">               
 				  <img src="images/computer-cat.png" class="thumbnails" />
-				   <img src="images/chef-cat.png" class="thumbnails" />
-				<img src="images/doctor-cat.png" class="thumbnails" />
-				<img src="images/cat-dreaming-of-fish.png" class="thumbnails" />
-				<img src="images/pampered-puss.png" class="thumbnails" />
-				<img src="images/politician-cat.png" class="thumbnails" />
-				<img src="images/teacher-cat.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">   
+				  <img src="images/chef-cat.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">
+					<img src="images/doctor-cat.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">
+					<img src="images/cat-dreaming-of-fish.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">
+					<img src="images/pampered-puss.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">
+					<img src="images/politician-cat.png" class="thumbnails" />
+				</div>
+				<div class="thumbnails-overlay">
+					<img src="images/teacher-cat.png" class="thumbnails" />
+				</div>
 			</li>
 			
 			<ul class="events">

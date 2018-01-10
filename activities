@@ -64,14 +64,18 @@
 		<body>
 			<div class="activities-align">
 				<h2>Animal chess</h2>
-				<img src="images/cats-playing-animal-chess.png" alt="cats playing animal chess" class="activities" />
+				<div class="image-overlay">
+					<img src="images/cats-playing-animal-chess.png" alt="cats playing animal chess" class="activities" />
+				</div>
 				<p> Hmmmmm, how to take the Lion King?
 					Animal chess is a game with different animal pieces which move in unique ways.  The aim is to prevent the other player's King from moving so he cannot escape.</p>
 			</div>
 
 			<div class="activities-align">
 				<h2>Altruism</h2>
+				<div class="image-overlay">
 				<img src="images/cats-helping-homeless-cats.png" alt="cats baking and selling fish cakes to help homeless cats" class="activities" /> 
+				</div>
 				<p>Some cats are not so fortunate to have a loving home. Raise money and bake fishcakes for homeless cats. Altruism is thinking about the well-being of others, it comes from the Latin word <b><em>alter</em></b> meaning other. This is also where we get the word <b>alternative</b> from, meaning another option or possibiity.</p>
 			</div>
 			
