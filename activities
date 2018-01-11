@@ -81,25 +81,29 @@
 			
 			<div class="activities-align">
 				<h2>Bootcamp</h2>
-				<p>
-					<img src="images/fat-cats-training-bootcamp.png"
-				</p>
+				
+        <div class="image-overlay">
+					<img src="images/fat-cats-training-bootcamp.png" alt="cats working out and getting fit" class="activities" />
+				
+				</div>
 				<p>Get fit at bootcamp! Bootcamp is intensive training over a short period of time.</p> 
 			</div>
 
 			<div class="activities-align">
 
 				<h2>Cat cafe</h2>
-				<p>
-					<img src="images/cats-drinking-in-cafe.png" alt="Cats drinking and socialising in a cafe" class="activities" /><br />
-					Have a drink, relax and get to know other cats.</p>	
+				  <div class="image-overlay">
+					<img src="images/cats-drinking-in-cafe.png" alt="Cats drinking and socialising in a cafe" class="activities" />
+					</div>
+					<p>Have a drink, relax and get to know other cats.</p>	
 			</div>
 
 			<div class="activities-align">	
 					
 				<h2>Church</h2>
-				<p> <img src="images/church-for-cats.png" class="activities" />
-				</p>
+				<div class="image-overlay">
+				<img src="images/church-for-cats.png" class="activities" />
+				</div>
 				<p> Is there more to life than this world?</p>
 				<p>Come in and discover if there is cat heaven.</p>
 			</div>
@@ -107,45 +111,57 @@
 			<div class="activities-align">
 
 			<h2>Motor-racing</h2>
-			<p> 
+			<div class="image-overlay">
 			<img src="images/formula1-cats-racing-track.png" alt="Cats racing each other on race tracks in the cat world of Purr City" class="activities" />
-			</p>
+			</div>
 			<p>	Race other cats on tracks through created desert, mountain and coastal terrains. A terrain is a piece of land with regards to its physical features. This comes from the Latin word <b><em>terra</em></b> meaning land/earth, and it is also where we get the word <b>territory</b> from.</p>
 			</div>
 
 			<div class="activities-align">
 				<h2>Languages</h2>
+				<div class="image-overlay">
 				<img src="images/cats-learning-languages.png" alt="Cats learning languages in Purr City" class="activities" />
+				</div>
 				<p>Learn Spanish, Mandarin and more so you can communicate to cats from across the world.</p>
 			</div>
 		
 			<div class="activities-align">
 				<h2>Limbo</h2>
+				<div class="image-overlay">
 				<img src="images/limbo-dance.png" "Cats doing the limbo dance in Purr City" class="activities" />
+				</div>
 				<p>Can you do the limbo dance?  Practising the limbo improves your flexibility.</p> 
 			</div>
 
 			<div class="activities-align">
 				<h2>Rock-climbing</h2> 
+				<div class="image-overlay">
 				<img src="images/rock-climbing-cats.png" alt="Cats rock-climbing in Purr City" class="activities" />
+				</div>
 				<p>Cats are active and like the outdoors.</p>
 			</div>
 
 			<div class="activities-align">
 				<h2>Karate & self-defence</h2>
+				<div class="image-overlay">
 				<img src="images/karate-cats.png" alt="Cats learning karate for self-defence" class="activities" />
+				</div>
 				<p>Ka-pow! Learn to defend yourself against dogs before running up a tree.</p>
 			</div>
 
 			<div class="activities-align">
 				<h2>Singing</h2>
+				<div class="image-overlay">
 				<img src="images/singing-cats-contest.png" alt="Cats performing in a singing talent show - Cats have Talent!" class="activities" />
+				</div>
 				<p>Learn to serenade other cats. Breathe in properly and project your voice.</p>
 			</div>
 
 			<div class="activities-align">
-			<h2>Tree climbing</h2> 
+			<h2>Tree climbing</h2>
+			<div class="image-overlay"> 
 			<img src="images/tree-climbing-cats.png" alt="Cats having fun tree-climbing" class="activities" />
+			</div>
 			<p>Explore different trees.  Have adventures with fellow cats - team bonding!</p>
 			</div>
 		</div>

@@ -83,7 +83,9 @@
   <!-- footer -->
   <footer>
 
+<div class="thumbnails-overlay"> 
 <img src="images/cropped_playtime.png" alt="cats playing" class="thumbnails", style="float:right; width:300px; margin:30px"/>
+</div>
   <h2>Playtime</h2>
 <p>Cats need to play and experiment to find something they enjoy and that they're passionate about for a career. Every cat has the potential to do great things.</p>
 	<p>Every Wednesday afternoon is playtime so cats can enjoy a balanced, healthy life.</p>
@@ -130,7 +132,9 @@
 			<ul class="events">
 			<li><b>Entrepreneur</b>: Think of new ventures and start your own business.  <!--Disrupt society with your innovations.-->  The world is your fish!</li>
 			<li>
+			  <div class="thumbnails-overlay">
 				<img src="images/reader-cat-animal-farm.png" class="thumbnails right" />
+				</div>
 				<b>Furtrimmers and groomers</b>:  <!--Cats are vain.-->  Cats like to look good!  Give pedicures and hear cats purr in delight! Pedicure comes from the Latin word <b><em>pedis</em></b> meaning of the foot and <b><em>curare</em></b> means to take care of.  This is also where we get the word <b><em>pedestrian</em></b> from. 
 			</li>
 			<li><b>Politician</b>: Help govern Purr City.<!--and participate in the policies and decisions to make the city more prosperous and equitable (fair).-->  Assist in the city's education, healthcare, finances and housing decisions. Politician comes from the Greek word <b><em>polis</em></b> meaning city, as they look after the things that concern the city or state.  We also get the word <b>metropolis</b> from this, which means a large, busy city. <!--Help decide on the cat's minimum purrcoin wage policy--></li>
