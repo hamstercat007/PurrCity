@@ -38,10 +38,11 @@
           <ul id="menu">	
 		<li><a href="index.html">Home</a></li>
 		            	<li><a href="feline-heritage">Feline Heritage</a></li>
-		            	<li><a href="courses">Cat Academy</a></li>
+		            	<!--<li><a href="courses">Cat Academy</a></li>-->
 		            	<li><a href="careers">Careers</a></li>
 		            	<li class="active"><a href="activities">Leisure</a></li>
 		            	<li><a href="clothing">Clothing</a></li>
+		            	<li><a href="entrance/entrance.html">Game</a></li>
 			<!--<li><a href="entrance.html">Gate to Purr City</a></li>
 			<li><a href="friends_purr_city.html">Friends of Purr City</a></li>-->
 			<!--<li><a href="merchandise.html">Purr City Merchandise</a><li>-->

@@ -1,0 +1,81 @@
+@keyframes flash2 {
+  0%, 66% {
+    opacity: 0;
+  }
+
+  33%, 100% {
+    opacity: 1;
+  }
+}
+
+label {
+    font-size: 35px;
+    padding-right: 25px;
+    padding-left: 8px;
+  }
+
+
+  .questions {
+    position:absolute;top:36%;left:70%;background-color:transparent;
+    font-size:32px; max-width:300px; text-align:left
+  }
+
+  a.button {
+
+        text-decoration: none;
+        color: white;
+        display: inline;
+        position: absolute;
+        top: 55%;
+        left: 85%;
+        background-color: black;
+        font-size: 32px;
+        max-width: 200px;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .speech {
+        border: 5px solid black;
+        padding: 10px;
+        border-radius: 50px;
+      }
+
+.fe-vote-wrapper {
+    display: none;
+    background:   black;
+    width: 100vw;
+    height:  100vh;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 100;
+    animation-name:flash2;
+    animation-fill-mode: both;
+    animation-duration:2s;
+  transition: transform ease-in 2s;
+}
+
+.fe-vote-wrapper ímg {
+    display: none;
+    width: 90%;
+    height: 90%;
+    margin:  5vw;
+    margin-top:  5vh;
+    margin-bottom: 5vh;
+}
+
+.fe-vote-message {
+  border: 5px solid white;
+  padding: 12px;
+  border-radius: 50px;
+    display: none;
+    position: absolute;
+    top:30px;
+    color: white;
+    left:800px;
+    z-index: 200;
+    width: 260px;
+    padding: 20px;
+    font-size: 30px;
+}

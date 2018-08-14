@@ -1,0 +1,31 @@
+label {
+    font-size: 35px;
+    padding-right: 25px;
+    padding-left: 8px;
+  }
+  
+  .questions {
+    position:absolute;top:15%;left:46%;background-color:transparent;
+    font-size:32px; max-width:350px; text-align:left
+  }
+  
+  a.button {
+        text-decoration: none;
+        color: white;
+        display: inline;
+        position: absolute;
+        top: 50%;
+        left: 65%;
+        background-color: black;
+        font-size: 32px;
+        max-width: 200px;
+        text-align: center;
+        padding: 10px;
+    }
+
+
+  .speech {
+    border: 5px solid black;
+    padding: 8px;
+    border-radius: 50px;
+  }

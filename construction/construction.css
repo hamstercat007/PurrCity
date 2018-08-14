@@ -1,0 +1,104 @@
+  
+  *:focus {
+    outline: none;
+  }
+
+.speech {
+    border: 5px solid black;
+    padding: 7px;
+    border-radius: 50px;
+  }
+
+label {
+    font-size: 35px;
+    padding-right: 25px;
+    padding-left: 8px;
+  }
+  
+  .questions {
+    position:absolute;top:15%;left:67%;background-color:transparent;
+    font-size:32px; max-width:325px; text-align:center
+  }
+  
+  .button1 {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    position: absolute;
+    top: 59%;
+    left: 64%;
+    background-color: #12a017;
+    font-size: 20px;
+    max-width: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Times;
+    border-radius: 50px;
+    border: 6px outset rgb(15, 131, 4);
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+    }
+
+    /*.button1:hover {
+      background-color: rgb(88, 192, 28); /* Green */
+      color: white
+  }*/
+  
+    .pulse2 {
+      animation-name: pulse2;
+      animation-duration: 1s;
+      animation-delay: 1s;
+    }
+
+    .button2 {
+      text-decoration: none;
+      color: white;
+      display: inline;
+      position: absolute;
+      top: 73%;
+      left: 64%;
+      background-color: rgb(2, 2, 2);
+      font-size: 30px;
+      max-width: 300px;
+      text-align: center;
+      padding: 10px;
+      font-family: Times;
+      border-radius: 40px;
+      border: 6px outset rgb(46, 10, 10);
+      margin: 10px;
+      padding: 10px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+        }
+
+        .button2:hover {
+          background-color: rgb(68, 7, 7); 
+          color: white;
+      }
+
+        .access_code_block {
+         display:none;
+         color: white;
+         position: absolute;
+         top: 85%;
+         left: 64%;
+         background-color: black;
+         font-family: Times; 
+         font-size: 30px;
+         padding: 10px; 
+        }
+
+        .purrCoin {
+          padding: 50px;
+          position: absolute;
+          top: 8%;
+          left: 70%;
+          background-color: white;
+          background-image: url("../images/purrcoin.png");
+          background-repeat: no-repeat;
+          /*font-size: 25px;
+          max-width: 250px;
+          text-indent: 70px;
+          text-align: center;*/
+          display: none;
+        }

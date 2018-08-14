@@ -30,23 +30,25 @@
 	<header>
 	
 
-		<body id="page1">
+		<body id="page">
+		  
 			<div class="body1">
-  			<div class="main">
 			<div class="wrapper">
       		 	<nav>
           			<ul id="menu">
 		            	<li><a href="index.html">Home</a></li>
 		            	<li><a href="feline-heritage">Feline Heritage</a></li>
-		            	<li><a href="courses">Cat Academy</a></li>
+		            	<!--<li><a href="courses">Cat Academy</a></li>-->
 		            	<li class="active"><a href="careers">Careers</a></li>
 		            	<li><a href="activities">Leisure</a></li>
 		            	<li><a href="clothing">Clothing</a></li>
+		            	<li><a href="entrance/entrance.html">Game</a></li>
           			</ul>
        			 </nav>
- <!--<article id="content">-->
+ <article id="content">
     <div class="wrapper">
     	<div class="black-font" style="background-color: white;">
+    	<div style="padding-right: 85px;padding-left: 60px;">
 			<h2>Career Guidance</h2>
 			<img src="images/renaissance-cat-education.png" alt="Renaissance cat who loves learning" class="sketches headline left" />
 			<h2>What is your purpose in life?</h2>
@@ -55,8 +57,11 @@
 
 		<h2>Purr City minimum wage</h2>
 		<p>Purr City is proud to be guaranteeing the Purr City minimum wage to all working cats. This is currently 8 purr coins an hour, as per the Purr Minimum Wage Act 2017. An Act is a law which is made and voted in by cats. We aim to lift all cats out of poverty so that they can afford the lifestyles they deserve.</p>
-
+        </div>
 		</div>
+		</div>
+		
+	
 		
 			
 <!--<div style="float">
@@ -105,7 +110,7 @@
 			
 			
 			
-			
+		<div class="main">
 	      <div class="thumbnails-overlay">               
 				  <img src="images/computer-cat.png" class="thumbnails" />
 				</div>
@@ -127,6 +132,7 @@
 				<div class="thumbnails-overlay">
 					<img src="images/teacher-cat.png" class="thumbnails" />
 				</div>
+		
 			</li>
 			
 			<ul class="events">
@@ -144,4 +150,5 @@
 </li>
 		<ul>
 		</div>
+	</div>
 	</body>

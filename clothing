@@ -24,19 +24,21 @@
       <div class="wrapper">
         
         <nav>
-          <ul id="menu">
+          <ul id="menu" >
             <li><a href="index.html">Home</a></li>
             <li><a href="feline-heritage">Feline Heritage</a></li>
-            <li><a href="courses">Cat Academy</a></li>
+            <!--<li><a href="courses">Cat Academy</a></li>-->
             <li><a href="careers">Careers</a></li>
             <li><a href="activities">Leisure</a></li>
             <li class="active"><a href="clothing">Clothing</a></li>
+            <li><a href="entrance/entrance.html">Game</a></li>
           </ul>
         </nav>
       </div>
     <article id="content">
       <div class="wrapper">
         <div class="black-font">
+        
 
 <h2>Purr City Clothing</h2>
 

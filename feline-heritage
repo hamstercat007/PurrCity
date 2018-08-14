@@ -28,17 +28,17 @@
 	</head>
 <body id="index">
 <div class="body1">
-  <div class="main">
 		<div class="wrapper">
 					
 		<nav>
           <ul id="menu">			
             <li><a href="index.html">Home</a></li>
             <li class="active"><a href="feline-heritage">Feline Heritage</a></li>
-            <li><a href="courses">Cat Academy</a></li>
+            <!--<li><a href="courses">Cat Academy</a></li>-->
            	<li><a href="careers">Careers</a></li>
 		    <li><a href="activities">Leisure</a></li>
 		    <li><a href="clothing">Clothing</a></li>
+		    <li><a href="entrance/entrance.html">Game</a></li>
           </ul>
         </nav>
       </div>

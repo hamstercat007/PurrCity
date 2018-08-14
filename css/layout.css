@@ -18,7 +18,9 @@
 }
 /* index.html */
 #index .body1 {
-	background: url(../images/bg_top.gif) top repeat-x white;
+	background:white;
+	/*url(../images/bg_top.gif) top repeat-x white;*/
+	padding: 20px;
 }
 
 #page1 .body1 {

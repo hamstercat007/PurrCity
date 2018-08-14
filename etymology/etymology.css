@@ -1,0 +1,26 @@
+label {
+    font-size: 35px;
+    padding-right: 25px;
+    padding-left: 8px;
+  }
+  
+  .questions {
+    position:absolute;top:57%;left:44%;background-color:transparent;
+    font-size:32px; max-width:300px; text-align:left;
+  }
+  
+  a.button {
+        text-decoration: none;
+        color: white;
+        display: inline;
+        position: absolute;
+        top: 75%;
+        left: 70%;
+        background-color: black;
+        font-size: 32px;
+        max-width: 200px;
+        text-align: center;
+        padding: 10px;
+    }
+
+

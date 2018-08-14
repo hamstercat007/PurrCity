@@ -1,0 +1,52 @@
+.purrCoin {
+  padding: 50px;
+  position: absolute;
+  top: 8%;
+  left: 87%;
+  background-color: transparent;
+  background-image: url("../images/purrcoin.png");
+  background-repeat: no-repeat;
+  font-size: 25px;
+  max-width: 250px;
+  text-indent: 84px;
+  text-align: center;
+}
+  
+  *:focus {
+    outline: none;
+  }
+
+.speech {
+    border: 5px solid black;
+    padding: 5px;
+    border-radius: 50px;
+  }
+
+  
+label {
+    font-size: 35px;
+    padding-right: 25px;
+    padding-left: 8px;
+  }
+  
+  .questions {
+    position:absolute;top:65%;left:30%;background-color:transparent;
+    font-size:32px; max-width:275px; text-align:center
+  }
+  
+  
+
+    a.button {
+      
+          text-decoration: none;
+          color: white;
+          display: inline;
+          position: absolute;
+          top: 75%;
+          left: 71%;
+          background-color: black;
+          font-size: 32px;
+          max-width: 200px;
+          text-align: center;
+          padding: 10px;
+      }
